@@ -35,7 +35,7 @@ PRACTICE_STATUS_TEMPLATE = \
 Coins Added : $total_coins
 Questions answered : $questions
 Games played : $games
-       ©made byPANDA{DEV}♡CHETAN{dev} ```
+       ©made by CAPTAIN COOL & SAVAGE || PRO ```
 """
 PRACTICE_ERR_MSG = \
 """
@@ -143,6 +143,6 @@ class LocoCoinsBot(discord.Client):
 
 bot = LocoCoinsBot()
 
-bot.run('NTg3NTAwNTI1ODY4ODEwMjYw.XP3ekA.Z-w0zq8tOyhYwg32ieB1hWUqGLE')
+bot.run('NTkzMDYyMjI2MDQzMzM4NzYz.XRLScw.iNlTsHRJzsb3UTlwL9Qn7PKs0_U')
 
 
