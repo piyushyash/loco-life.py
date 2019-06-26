@@ -1,0 +1,13 @@
+import discord
+from discord ext import commands
+import asyncio
+
+bot = commands.Bot(command_prefix=rt"")
+
+@bot.event
+async def on_ready():
+	print('The bot is ready!')
+	print(bot.user.name)
+	print(bot.user.id)
+	
+	bot.run('NTc3MjI2NDM1OTIwMzk2MzIz.XQWHWw.ztbRNSTTSbXYPps-cJcRCL68yrY')
